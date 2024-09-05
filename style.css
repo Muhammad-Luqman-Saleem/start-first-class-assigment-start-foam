@@ -1,0 +1,61 @@
+.formstart{
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(61, 249, 61);
+
+}
+.formstart1{
+    text-align: center;
+    background-color: rgb(180, 225, 191);
+
+}
+
+.secondpage{
+
+    color: yellowgreen;
+}
+
+.thirdpage{
+    color: yellowgreen;
+}
+
+.fourthpage{
+    color: yellowgreen;
+}
+
+.button2{
+    text-align: center;
+        background-color: rgb(180, 225, 191);
+}
+
+
+.button3{
+    text-align: center;
+    background-color: rgb(180, 225, 191);
+
+}
+
+.size{
+    max-width: 70%;
+    min-width: 50%;
+    max-height: 70%;
+    min-height: 50%;
+}
+
+.button4{
+    text-align: center;
+    background-color: rgb(180, 225, 191);
+    margin-left: 47%;
+    margin-right: 47%;
+}
+
+.end1{
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(61, 249, 61);
+
+}
+.end2{
+    text-align: center;
+    background-color: rgb(180, 225, 191);
+}
